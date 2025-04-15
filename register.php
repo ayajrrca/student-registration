@@ -3,7 +3,7 @@
 $server = "tcp:sqlserver4kn7ps34vbhzw.database.windows.net,1433";
 $database = "sampledb";
 $username = "sqladmin"; // Change this
-$password = "YourPasswordHere"; // Change this
+$password = "P@ssw0rd"; // Change this
 
 try {
     $conn = new PDO("sqlsrv:server=$server;Database=$database", $username, $password);
