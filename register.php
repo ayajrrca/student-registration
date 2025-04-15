@@ -1,8 +1,8 @@
 <?php
-$server = "tcp:<your-sql-server-name>.database.windows.net,1433";
-$database = "<your-database-name>";
-$username = "<your-sql-username>";
-$password = "<your-password>";
+$server = "tcp:sqlserver4kn7ps34vbhzw.database.windows.net,1433";
+$database = "sampledb";
+$username = "sqladmin";
+$password = "P@ssw0rd";
 $connectionOptions = array(
     "Database" => $database,
     "Uid" => $username,
