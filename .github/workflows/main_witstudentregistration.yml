@@ -65,4 +65,4 @@ jobs:
           app-name: 'witstudentregistration'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FDA210421CC4D7685BF6DFF6FA1DED7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A094EFA9637A4E91A3BFB72204C3D284 }}
